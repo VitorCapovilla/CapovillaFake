@@ -1,5 +1,5 @@
 name: CapovillaFake
-version: '${project.version}'
+version: '1.0'
 main: br.com.vitorcapovilla.capovillafake.CapovillaFake
 api-version: '1.19'
 
